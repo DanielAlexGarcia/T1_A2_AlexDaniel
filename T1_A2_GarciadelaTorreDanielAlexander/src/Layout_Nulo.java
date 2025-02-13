@@ -136,6 +136,8 @@ class VentanaInicio extends JFrame{
         textfields3.setBounds(350, 215, 380, 240);
         add(textfields3);
 
+        
+
     }
 
 }
